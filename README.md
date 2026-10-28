@@ -1,7 +1,20 @@
-# What even is this?
+# Student Grades
 
-***Python Task***
+A pandas practice project from my Just IT Data Bootcamp. I added comments throughout to help others in my group learn pandas.
 
-Basic Python Pandas Dataframe manipulation, column creation
+## What it covers
 
-*There is also a completely random Python file there where I did my first Python code, for i in range(x,y), I am very proud of this.* 
+- Exploring and filtering the data
+- Adding, renaming and dropping columns
+- Grouping scores by class and gender
+- Pivot tables
+- Giving each student a grade (A to D)
+- Charts of scores by class
+
+## Result
+
+28 out of 35 students passed (pass mark 60).
+
+## Tools
+
+Python, pandas, matplotlib, seaborn, Jupyter
